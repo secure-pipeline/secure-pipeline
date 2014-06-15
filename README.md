@@ -5,7 +5,7 @@ This project began out of the Velocity 2014 talk from Gareth Rushgrove (@garethr
 
 ## Examples
 * [Travis CI example](https://github.com/secure-pipeline/travis-example)
-* Jenkins example
+* [Jenkins example](https://github.com/secure-pipeline/travis-example)
 * and more...
 
 ## License
